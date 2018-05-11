@@ -3,7 +3,7 @@ var {assert, expect} = require('chai');
 var Account = require('../src/bank');
 
 before(() => {
-  console.log("Befre");
+  console.log("Before");
 });
 
 describe('Bank Application', () => {
